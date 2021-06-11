@@ -4,20 +4,16 @@
 
 
 
->  HTML, CSS, Boostrap
+---
+
+## Index
 
 
-
-> 목차
 
 - [Image](#image)
-
 - [CDN](#cdn)
-
 - [nav_footer.html](#nav_footerhtml)
-
 - [home.html](#homehtml)
-
 - [community.html](#communityhtml)
 - [후기](#후기)
 
@@ -25,9 +21,11 @@
 
 ---
 
-### Image
+## Image
 
-#### (1) nav_footer.html
+
+
+### 1. nav_footer.html
 
 > Navbar, Modal, Footer
 
@@ -39,7 +37,7 @@
 
 
 
-#### (2) home.html
+### 2. home.html
 
 > Movie Carousel, Movie Card
 
@@ -47,9 +45,7 @@
 
 ###  ![4444](README.assets/4444.PNG)
 
-
-
-#### (3) community.html
+### 3. community.html
 
 > Review (SideBar, Board), Pagination
 
@@ -63,7 +59,9 @@
 
 ---
 
-### CDN
+## CDN
+
+
 
 > `<head>`와 `<body>`에 link와 script 첨부
 
@@ -87,11 +85,11 @@
 
 ---
 
-###  nav_footer.html
+## nav_footer.html
 
 
 
-### 1.  Navbar
+### 1. Navbar
 
 #### (1) nav 태그 (navbar)
 
@@ -288,9 +286,11 @@
 
 
 
----
+----
 
-### home.html
+## home.html
+
+
 
 ### 1. Movie Carousel
 
@@ -443,7 +443,7 @@
 
 ---
 
-### community.html
+## community.html
 
 
 
@@ -636,7 +636,11 @@
 
 
 
-### 6. 후기 
+---
 
-> 기존의 파이썬 코드를 실행할 때에는 오류가 프로그램에서 감지되거나 자동완성 기능이 있어 편리했다. 하지만 html과 동시에 css 그리고 bootstrap을 동시에 접하면서 혼선도 있었고 파이썬의 편리한 기능이 사라져 어려운 점도 있었다. 하지만 파이썬의 경우 가시적인 효과의 결과물보다 터미널에 출력된 간단한 값만 확인할 수 있어서 아쉬웠던 점을 웹 언어를 배우면서 극복할 수 있었다. 비록 오타와 같은 문법적 오류를 직접 찾아내야 하는 단점도 있지만 코드가 적용된 결과를 Chrome을 통해 가시적으로 볼 수 있다는 점이 좋았다. 
+## 후기
+
+
+
+기존의 파이썬 코드를 실행할 때에는 오류가 프로그램에서 감지되거나 자동완성 기능이 있어 편리했다. 하지만 html과 동시에 css 그리고 bootstrap을 동시에 접하면서 혼선도 있었고 파이썬의 편리한 기능이 사라져 어려운 점도 있었다. 하지만 파이썬의 경우 가시적인 효과의 결과물보다 터미널에 출력된 간단한 값만 확인할 수 있어서 아쉬웠던 점을 웹 언어를 배우면서 극복할 수 있었다. 비록 오타와 같은 문법적 오류를 직접 찾아내야 하는 단점도 있지만 코드가 적용된 결과를 Chrome을 통해 가시적으로 볼 수 있다는 점이 좋았다. 
 
